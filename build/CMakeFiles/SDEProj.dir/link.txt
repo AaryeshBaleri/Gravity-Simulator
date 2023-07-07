@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/SDEProj.dir/src/main.cpp.o CMakeFiles/SDEProj.dir/src/game.cpp.o CMakeFiles/SDEProj.dir/src/texture_manager.cpp.o CMakeFiles/SDEProj.dir/src/game_object.cpp.o CMakeFiles/SDEProj.dir/src/vector_2d.cpp.o -o SDEProj  -L/usr/lib/x86_64-linux-gnu  -lSDL2 -lSDL2_image 

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/aaryesh/Relevant/SDEProj/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -g -o CMakeFiles/SDEProj.dir/src/main.cpp.o -c /home/aaryesh/Relevant/SDEProj/src/main.cpp",
+  "file": "/home/aaryesh/Relevant/SDEProj/src/main.cpp"
+},
+{
+  "directory": "/home/aaryesh/Relevant/SDEProj/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -g -o CMakeFiles/SDEProj.dir/src/game.cpp.o -c /home/aaryesh/Relevant/SDEProj/src/game.cpp",
+  "file": "/home/aaryesh/Relevant/SDEProj/src/game.cpp"
+},
+{
+  "directory": "/home/aaryesh/Relevant/SDEProj/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -g -o CMakeFiles/SDEProj.dir/src/texture_manager.cpp.o -c /home/aaryesh/Relevant/SDEProj/src/texture_manager.cpp",
+  "file": "/home/aaryesh/Relevant/SDEProj/src/texture_manager.cpp"
+},
+{
+  "directory": "/home/aaryesh/Relevant/SDEProj/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -g -o CMakeFiles/SDEProj.dir/src/game_object.cpp.o -c /home/aaryesh/Relevant/SDEProj/src/game_object.cpp",
+  "file": "/home/aaryesh/Relevant/SDEProj/src/game_object.cpp"
+},
+{
+  "directory": "/home/aaryesh/Relevant/SDEProj/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -g -o CMakeFiles/SDEProj.dir/src/vector_2d.cpp.o -c /home/aaryesh/Relevant/SDEProj/src/vector_2d.cpp",
+  "file": "/home/aaryesh/Relevant/SDEProj/src/vector_2d.cpp"
+}
+]
