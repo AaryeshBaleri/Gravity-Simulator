@@ -1,4 +1,4 @@
-#include "game_object.hpp"
+/*#include "game_object.hpp"
 #include "texture_manager.hpp"
 
 GameObject::GameObject(const char* textureSheet, int x, int y) {
@@ -25,4 +25,4 @@ void GameObject::update() {
 void GameObject::render() {
     SDL_RenderCopy(Game::_renderer, _objTexture, NULL, &_destRect);
 
-}
+}*/
