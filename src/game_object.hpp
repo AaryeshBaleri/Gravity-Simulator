@@ -1,4 +1,4 @@
-#ifndef __GAME_OBJECT_HPP__
+/*#ifndef __GAME_OBJECT_HPP__
 #define __GAME_OBJECT_HPP__
 
 #include "game.hpp"
@@ -18,4 +18,4 @@ class GameObject {
         SDL_Rect _srcRect, _destRect;
 };
 
-#endif
+#endif*/
